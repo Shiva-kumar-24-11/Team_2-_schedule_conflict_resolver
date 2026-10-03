@@ -1,2 +1,2 @@
-# Team_1_schedule_conflict_resolver
+# Team_2_schedule_conflict_resolver
 semm 7
